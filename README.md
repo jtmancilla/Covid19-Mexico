@@ -14,10 +14,10 @@ Download and Install Anaconda distribution of Python. The code should run with n
 
 For this project, I was interestested in using Covid19 Data Repository by Johns Hopkins CSSE from to better understand:
 
-1. Can we guess Mexico Covid-19 cases for the next 10 days?
-2. How look some countries at the same Mexico period?
-3. What countries have the highest correlations Mexico trend with?
-4. The forecast to Mexico for the next 10 days
+1. Can we guess the Covid-19 cases in Mexico for next 10 days?
+2. How look some countries at the same period?
+3. What countries have the highest correlations Mexico trend with?
+4. The forecast to Mexico for next 10 days
 
 
 ## File Descriptions <a name="files"></a>
